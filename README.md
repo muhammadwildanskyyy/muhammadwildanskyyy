@@ -145,11 +145,8 @@
 <!-- Connection -->
 <h2> Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
 <p align="center">
-  <a href="https://facebook.com/nguyennhathuy.orit" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/facebook.svg" alt="nguyennhathuy.orit" height="30" width="40"/></code>
-  </a>
-  <a href="https://instagram.com/_.lil.huy._" target="_blank">
-    <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/instagram.svg" alt="_.lil.huy._" height="30" width="40"/></code>
+  <a href="https://instagram.com/muhammadwildan.mwya" target="_blank">
+    <code><img src="https://github.com/muhammadwildanskyyy/muhammadwildanskyyy/blob/main/images/instagram.svg" alt="_.lil.huy._" height="30" width="40"/></code>
   </a>
 </p>
 
