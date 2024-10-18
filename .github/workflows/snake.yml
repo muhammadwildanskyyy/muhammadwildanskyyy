@@ -20,8 +20,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SNAKE_PROFILE_TOKEN }}
       - uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
-          target_branch: snake
+          target_branch: main
           commit_message: Update snake
-          build_dir: dist
+          build_dir: images
         env:
           GITHUB_TOKEN: ${{ secrets.SNAKE_PROFILE_TOKEN }}
