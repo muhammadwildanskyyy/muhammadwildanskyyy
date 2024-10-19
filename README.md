@@ -100,7 +100,7 @@
   <!--<a href="https://docker.com" target="_blank">
     <code><img src="https://github.com/oHTGo/oHTGo/blob/main/images/docker.svg" alt="Docker" height="40"/></code>
   </a>-->
-  <a href="https://www.nginx.com" target="_blank">
+  <a href="https://en.wikipedia.org/wiki/MacOS" target="_blank">
     <code><img src="https://github.com/muhammadwildanskyyy/muhammadwildanskyyy/blob/main/images/Mac-Logo-PNG-Clipart-Background.png" alt="Mac" height="40"/></code>
 </p>
 
@@ -135,7 +135,7 @@
 <details>
   <summary><b>⚡ GitHub Contribution</b></summary>
   <br>
-  <p><img alt="oHTGo's GitHub Contribution" src="https://github.com/muhammadwildanskyyy/muhammadwildanskyyy/blob/output/github-contribution-grid-snake.svg"/></p>
+  <p><img alt="snake" src="https://github.com/muhammadwildanskyyy/muhammadwildanskyyy/blob/output/github-contribution-grid-snake.svg"/></p>
   <br>
 </details>
 <!--<details> 
