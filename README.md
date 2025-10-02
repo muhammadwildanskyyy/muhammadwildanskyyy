@@ -19,7 +19,7 @@
 
 - ♑ I am creatively curious and a self-learner. I love exploring new technologies and currently learning new skills.
 - 📓 I'm a student of university state surabaya
-- 👨🏻‍💻 I am research team at [Dewo Robotic Unesa](https://robotdewo.ft.unesa.ac.id/) as a **Software Devision**.
+- 👨🏻‍💻 I am research team at [Dewo Robotic Unesa](https://deworobotic.unesa.ac.id/) as a **Software Devision**.
 - 🌱 I’m currently focusing on **Machine Learning** and practicing ** Web Development** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.
