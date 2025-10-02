@@ -152,6 +152,6 @@
 
 
 
-Credits: [Skyyy](https://github.com/muhammadwildanskyyy)
+Credits: [Skyyy](https://github.com/ardnskyyy)
 
 Last Edited on: 19/10/2024
