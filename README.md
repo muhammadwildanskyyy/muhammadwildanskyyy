@@ -145,13 +145,13 @@
 <!-- Connection -->
 <h2> Connect with me <img src="https://github.com/oHTGo/oHTGo/blob/main/images/handshake.gif" height="35px"></h2>
 <p align="center">
-  <a href="https://instagram.com/muhammadwildan.mwya" target="_blank">
+  <a href="https://instagram.com/ardnskyyy" target="_blank">
     <code><img src="https://github.com/muhammadwildanskyyy/muhammadwildanskyyy/blob/main/images/instagram.svg" alt="_.lil.huy._" height="30" width="40"/></code>
   </a>
 </p>
 
 
 
-Credits: [Skyyy](https://github.com/ardnskyyy)
+Credits: [Skyyy](https://github.com/muhammadwildanskyyy)
 
 Last Edited on: 19/10/2024
