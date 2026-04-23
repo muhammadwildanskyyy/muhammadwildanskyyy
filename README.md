@@ -7,27 +7,28 @@
   </p>
   
   <p>
-    <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
-    <img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white" />
-    <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <a href="https://www.skyyydev.my.id/">
-      <img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=react&logoColor=white" />
-    </a>
+    <b>🚀 Projects:</b> 
+    <a href="https://github.com/muhammadwildanskyyy/G-NEXA">G-NEXA</a> • 
+    <a href="https://github.com/muhammadwildanskyyy/Brainstorming-ai-chat">Brainstorm AI</a> • 
+    <a href="https://github.com/muhammadwildanskyyy/app-seni-silat-v15">Silat Scoring</a> • 
+    <a href="https://github.com/muhammadwildanskyyy/Youtube-Transcript">YouTube Analyzer</a> • 
+    <a href="https://github.com/muhammadwildanskyyy/auto-mention">Instagram Automation</a> • 
+    <a href="https://github.com/muhammadwildanskyyy/rtda-arkadata">Basestation System</a> • 
+    <a href="https://github.com/muhammadwildanskyyy/detection-brain-tumor-with-cnn">Brain Tumor Detection</a> • 
+    <a href="https://github.com/muhammadwildanskyyy/custom-object-detection-tensorflow">Object Detection</a>
   </p>
 </div>
 
 ---
 
-### 💫 Overview
-I am a Software Engineer focused on building **Scalable Distributed Systems** and **Real-time Applications**. With a background in the **Dewo Robotic Unesa Research Team**, I bridge the gap between high-performance backend architecture and intelligent systems.
+### 💫 About Me
+Software Engineer with a background in **Information Technology**, focusing on **Backend Development** and **AI Engineering**, supported by a solid track record in end-to-end product development. Proficient in using modern ecosystems such as **Next.js**, **Express.js**, and **FastAPI**, combined with expertise in building high-performance backends using **Golang**. 
 
-- 🏗️ Currently architecting **G-NEXA**, a high-performance microservices ecosystem.
-- 📡 Expertise in **gRPC**, **Event-Driven Architecture (Kafka)**, and **API Gateways (Kong)**.
-- ⚡ Building real-time synchronization systems using **Socket.io** and **TypeScript**.
-- 🧠 Integrating LLMs and Computer Vision into production-ready web platforms.
+Experienced in transforming complex ideas into real products—from advanced e-commerce platforms to intelligent SaaS applications—through the application of **microservices architecture**, **clean architecture**, **container technology**, and **Generative AI** technology innovations.
+
 - 🌐 Explore my full portfolio at **[skyyydev.my.id](https://www.skyyydev.my.id/)**.
+- 🚀 Currently architecting **G-NEXA**, a high-performance microservices ecosystem.
+- 🧠 Integrating LLMs and Computer Vision into production-ready web platforms.
 
 ---
 
@@ -37,11 +38,11 @@ I am a Software Engineer focused on building **Scalable Distributed Systems** an
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Languages** | <img src="https://github.com/muhammadwildanskyyy/muhammadwildanskyyy/blob/main/images/golang.svg" width="30" title="Go"/> <img src="https://github.com/muhammadwildanskyyy/muhammadwildanskyyy/blob/main/images/typescript.svg" width="30" title="TypeScript"/> <img src="https://github.com/muhammadwildanskyyy/muhammadwildanskyyy/blob/main/images/python.png" width="30" title="Python"/> <img src="https://github.com/muhammadwildanskyyy/muhammadwildanskyyy/blob/main/images/cpp.png" width="30" title="C++"/> |
-| **Backend & Systems** | **gRPC** • **Microservices** • **Apache Kafka** • **Kong API Gateway** • **Bun** • **Node.js** |
-| **Databases** | <img src="https://img.icons8.com/color/48/postgreesql.png" width="30" title="PostgreSQL"/> <img src="https://github.com/muhammadwildanskyyy/muhammadwildanskyyy/blob/main/images/mongodb.svg" width="30" title="MongoDB"/> <img src="https://github.com/muhammadwildanskyyy/muhammadwildanskyyy/blob/main/images/redis.svg" width="30" title="Redis"/> <img src="https://img.icons8.com/color/48/prisma-orm.png" width="30" title="Prisma"/> |
-| **Infrastructure** | <img src="https://github.com/muhammadwildanskyyy/muhammadwildanskyyy/blob/main/images/docker.svg" width="30" title="Docker"/> **Kong** • **CI/CD** • **Linux** • **Kubernetes** |
-| **Web & AI** | **Next.js 15/16** • **React 19** • **Vercel AI SDK** • **Tailwind CSS** • **Three.js** |
+| **Languages** | <img src="https://cdn.simpleicons.org/go/00ADD8" width="30" title="Go"/> <img src="https://cdn.simpleicons.org/typescript/3178C6" width="30" title="TypeScript"/> <img src="https://cdn.simpleicons.org/python/3776AB" width="30" title="Python"/> <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="30" title="C++"/> |
+| **Backend & Systems** | <img src="https://cdn.simpleicons.org/apachekafka/white" width="30" title="Kafka"/> <img src="https://cdn.simpleicons.org/kong/002043" width="30" title="Kong"/> <img src="https://cdn.simpleicons.org/fastapi/009688" width="30" title="FastAPI"/> <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="30" title="NestJS"/> <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="30" title="Node.js"/> <img src="https://cdn.simpleicons.org/socketdotio/010101" width="30" title="Socket.io"/> |
+| **Databases** | <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="30" title="PostgreSQL"/> <img src="https://cdn.simpleicons.org/mysql/4479A1" width="30" title="MySQL"/> <img src="https://cdn.simpleicons.org/mongodb/47A248" width="30" title="MongoDB"/> <img src="https://cdn.simpleicons.org/redis/DC382D" width="30" title="Redis"/> <img src="https://cdn.simpleicons.org/prisma/2D3748" width="30" title="Prisma"/> |
+| **Infrastructure** | <img src="https://cdn.simpleicons.org/docker/2496ED" width="30" title="Docker"/> <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="30" title="Kubernetes"/> <img src="https://cdn.simpleicons.org/linux/FCC624" width="30" title="Linux"/> |
+| **Web & AI** | <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="30" title="Next.js"/> <img src="https://cdn.simpleicons.org/react/61DAFB" width="30" title="React"/> <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="30" title="Tailwind CSS"/> |
 
 </div>
 
